@@ -1,6 +1,6 @@
 # AI Account Manager Agent
 
-![AI Account Manager Agent Workflow Diagram](images/workflow_diagram.jpg)
+![AI Account Manager Agent Workflow Diagram](images/workflow_diagram.png)
 
 ## Table of Contents
 
